@@ -1,0 +1,2 @@
+Dar dar carga no arquivo laravel.sql
+Copiar a pasta cursos para dentro da raiz de instalação do laravel e startar o servidor com o comando "php artisan serve"
